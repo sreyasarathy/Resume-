@@ -1,0 +1,16 @@
+.btn {
+    border: none;
+    background-color: inherit;
+    padding: 24px 38px;
+    font-size: 27px;
+    cursor: pointer;
+    display: inline-block;
+  }
+  
+  /* On mouse-over */
+  .btn:hover {background: lightgreen;}
+
+  .email {color: black;}
+  .linkedin{color: black;}
+  .github {color: black;}
+
